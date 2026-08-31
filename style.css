@@ -33,17 +33,3 @@
 .hero-visual{
     display: none;
 }
-
-.scroll-note{
-    display: none !important;
-}
-
-.hero{
-    min-height: auto !important;
-    padding-bottom: 60px !important;
-    overflow: hidden !important;
-}
-
-.hero-inner{
-    min-height: auto !important;
-}
